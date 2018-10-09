@@ -1,6 +1,5 @@
 #include<windows.h>
 #include<iostream>
-#include<conio.h>
 int x(0);
 int y(0);
 int main(void){
